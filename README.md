@@ -1,6 +1,9 @@
 # hello hi 
-I'm Dakota. I'm a 21 year old creative who codes in their free time. This account is mostly for my small personal projects. Outside of programming I do some art and run a moderately successful [YouTube channel](https://youtube.com/@dxl44).
+I'm Dakota. I code things in my free time. This account is mostly for small personal projects. Go to [my Pages site](https://dxl44.github.io) for more info about my stuff (or at least the info I've remembered to put there).
 
-If you want to reach out to me, my discord is @DXL44. 
-
-I know HTML/CSS, JavaScript, Python, and C++, but mostly focus on the frontend web develpment trio.
+# Languages
+* HTML
+* CSS
+* JavaScript
+* Python
+* C++
